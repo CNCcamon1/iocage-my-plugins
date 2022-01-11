@@ -2,7 +2,7 @@
   "name": "mineos",
   "plugin_schema": "2",
   "release": "12.2-RELEASE",
-  "artifact": "https://github.com/jsegaert/iocage-plugin-mineos.git",
+  "artifact": "https://github.com/CNCcamon1/iocage-plugin-mineos.git",
   "properties": { 
     "mount_procfs": 1,
     "mount_linprocfs": 1,
